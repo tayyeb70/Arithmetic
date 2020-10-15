@@ -1,5 +1,5 @@
 fn main() {
-    let x = 10;
+    let x = 4;
     let y  = 2;
 
     let sum = x+y;
