@@ -1,6 +1,6 @@
 fn main() {
     let x = 10;
-    let y  = 5;
+    let y  = 2;
 
     let sum = x+y;
     let minus = x-y;
